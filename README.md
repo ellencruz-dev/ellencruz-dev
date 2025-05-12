@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://www.ellencruz-dev.win/" target="_blank">Ellen Cruz</a> <img
-src="https://github.com/ellencruz-dev/ellencruz-dev/raw/main/images/Hi.gif" height="32" /></h1>
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" " height="32" /></h1>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a future software engineer determined to build efficient and innovative solutions. I'm motivated by rhe continuous search for knowledge and I'm always evolving, investing in certications ansd learning that complement my training. I have been delving into languages such as JvaScript and C#, in addtion to exploring NoCode technologies, IA, Front-End and HTML. _ .</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-ellencruz-dev.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
