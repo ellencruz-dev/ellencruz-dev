@@ -1,6 +1,5 @@
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
-&nbsp;&nbsp;&nbsp;
+<h1 align="center">Hi there, I'm <a href="https://www.ellencruz-dev.win/" target="_blank">Ellen Cruz</a> <img
+src="https://github.com/ellencruz-dev/ellencruz-dev/raw/main/images/Hi.gif" height="32" /></h1>
 
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a future software engineer determined to build efficient and innovative solutions. I'm motivated by rhe continuous search for knowledge and I'm always evolving, investing in certications ansd learning that complement my training. I have been delving into languages such as JvaScript and C#, in addtion to exploring NoCode technologies, IA, Front-End and HTML. _ .</p>&nbsp;
