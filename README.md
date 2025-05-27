@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" " height="32" /></h1>
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a future software engineer determined to build efficient and innovative solutions. I'm motivated by the continuous search for knowledge and I'm always evolving, investing in certications ansd learning that complement my training. I have been delving into languages such as JavaScript in addtion to exploring Front-End and HTML.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I'm a future software engineer woman determined to build efficient and innovative solutions. I'm motivated by the continuous search for knowledge and I'm always evolving, investing in certications ansd learning that complement my training. I have been delving into languages such as JavaScript in addtion to exploring Front-End and HTML.</p>&nbsp;
 
 
 </div>
